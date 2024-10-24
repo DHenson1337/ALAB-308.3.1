@@ -1,2 +1,5 @@
 For - in loops
 For - of loops
+String itteration
+
+Max 50 for part 2
